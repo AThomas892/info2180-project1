@@ -9,3 +9,17 @@ body {
     max-width: 960px;
     width: 100%;
 }
+
+ul {
+    text-align: right;
+    list-style-type: style type;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+    border: 1px;
+    background-color: white;
+  }
+  li {
+    display: inline;
+
+  }
